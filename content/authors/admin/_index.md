@@ -183,4 +183,5 @@ languages:
 
 ## About Me
 
-Yuxuan LUO is a PhD candidate of Computer Science at the City University of Hong Kong under the supervision of Prof. Sam Kwong and Prof. Horace Ip. His research interests include Continual Learning, Few-shot segmentation and transfer laerning.
+I'm is a PhD candidate in the Computer Science Department at City University of Hong Kong. My advisors are Prof. Sam Kwong (IEEE Fellow), Prof. Horace Ip, and Prof. Runmin Cong.
+My research interests focus on Computer Vision and Deep Learning, specifically Continual Learning and Few-shot segmentation.
