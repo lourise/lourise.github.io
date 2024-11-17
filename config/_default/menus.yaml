@@ -8,8 +8,8 @@ main:
     url: /
     weight: 10
   - name: Publication
-    url: /#publication
-    weight: 11
+    url: /#publications
+    weight: 14
 #  - name: Talks
 #    url: /#talks
 #    weight: 12
@@ -25,3 +25,4 @@ main:
 #  - name: Teaching
 #    url: teaching/
 #    weight: 40
+
