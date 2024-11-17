@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 罗宇轩
+title: Yuxuan LUO
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -183,5 +183,5 @@ languages:
 
 ## About Me
 
-I'm is a PhD candidate in the Computer Science Department at City University of Hong Kong. My advisors are Prof. Sam Kwong (IEEE Fellow), Prof. Horace Ip, and Prof. Runmin Cong.
+I'm Yuxuan LUO (罗宇轩), a PhD candidate in the Computer Science Department at City University of Hong Kong. My advisors are Prof. Sam Kwong (IEEE Fellow), Prof. Horace Ip, and Prof. Runmin Cong.
 My research interests focus on Computer Vision and Deep Learning, specifically Continual Learning and Few-shot segmentation.
