@@ -65,8 +65,8 @@ sections:
       count: 5
       # Filter on criteria
       filters:
-        folders:
-          - news
+#        folders:
+#          - news
         author: ""
         category: ""
         tag: ""
