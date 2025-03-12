@@ -13,6 +13,6 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
 
-url_code: '2025-03-12'
-url_source: ''
+url_code: '\'
+url_source: '\'
 ---
