@@ -13,5 +13,5 @@ publication_types:
 publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
 
 url_code: 'https://github.com/lourise/ccformer'
-url_source: ''
+url_source: 'https://github.com/lourise/ccformer'
 ---
