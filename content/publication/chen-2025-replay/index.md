@@ -9,7 +9,7 @@ authors:
 date: '2025-02-22'
 publishDate: '2025-02-22T14:14:25.286925Z'
 publication_types:
-- paper-conference
+- article-journal
 publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence*'
 
 url_code: ''
