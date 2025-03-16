@@ -1,5 +1,5 @@
 ---
-title: 'Concept-Level Semantic Transfer and Context-Level Distribution Modeling for Few-Shot Segmentation'
+title: 'Trace Back and Go Ahead: Completing Partial Annotation for Continual Semantic Segmentation'
 authors:
 - admin
 - Jinpeng Chen
@@ -10,8 +10,8 @@ date: '2025-03-12'
 publishDate: ''
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
+publication: '*Pattern Recognition*'
 
-url_code: 'https://github.com/lourise/ccformer'
-url_source: 'https://github.com/lourise/ccformer'
+url_code: ''
+url_source: ''
 ---
